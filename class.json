@@ -1,7 +1,7 @@
 {
   "novice": {
     "display": "Novice",
-    "server": "192.168.18.56:54300"
+    "server": "192.168.18.56:54310"
   },
   "pro": {
     "display": "Pro",
