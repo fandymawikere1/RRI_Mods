@@ -1,6 +1,10 @@
 {
-  "preq": {
-    "display": "PreQ",
-    "server": "112.78.153.235:54310"
+  "novice": {
+    "display": "Novice",
+    "server": "118.99.104.27:54310"
   },
+  "pro": {
+    "display": "Pro",
+    "server": "118.99.104.27:54320"
+  }
 }
